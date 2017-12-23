@@ -1,4 +1,8 @@
-# Unsupervised_Deep_Learning
+# Unsupervised Deep Learning
+## Theano / Tensorflow: Autoencoders, Restricted Boltzmann Machines, Deep Neural Networks, t-SNE and PCA
+
+https://www.udemy.com/unsupervised-deep-learning-in-python
+
 This course is the next logical step in my deep learning, data science, and machine learning series. I’ve done a lot of courses about deep learning, and I just released a course about unsupervised learning, where I talked about clustering and density estimation. So what do you get when you put these 2 together? Unsupervised deep learning!
 
 In these course we’ll start with some very basic stuff - principal components analysis (PCA), and a popular nonlinear dimensionality reduction technique known as t-SNE (t-distributed stochastic neighbor embedding).
